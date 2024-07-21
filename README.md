@@ -6,9 +6,9 @@
 * Checkout my GitHub repositories on Java console based projects and DOA layer backend integration projects.
 * Follow me on LinkedIn. -> https://www.linkedin.com/in/abhilash-gowda-1b8491210
 
-<image src="https://github-readme-stats.vercel.app/api?username=abhilashgowda23&show_icons=true"/>
+<image alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=abhilashgowda23&show_icons=true"/>
 
-<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashgowda23&layout=compact"/>
+<image  alt="my stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashgowda23&layout=compact"/>
 
 
 
