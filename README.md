@@ -8,7 +8,7 @@
 
 <image alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=abhilashgowda23&show_icons=true"/>
 
-<image  alt="my stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashgowda23&layout=compact"/>
+<img  alt="my stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashgowda23&layout=compact"/>
 
 
 
