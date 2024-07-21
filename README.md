@@ -8,6 +8,8 @@
 
 * [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhilashgowda23&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashgowda23)](https://github.com/abhilashgowda23/github-readme-stats)
+
 
 
  
