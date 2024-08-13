@@ -10,6 +10,7 @@
 
 <image  alt="my stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashgowda23&layout=compact"/>
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhilashgowda23)](https://github.com/ryo-ma/github-profile-trophy)
 
 
